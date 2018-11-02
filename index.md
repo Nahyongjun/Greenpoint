@@ -1,3 +1,3 @@
-# Welcome to Greenpoint!
+# **Welcome to Greenpoint!**
 
 ![map](GreenpointMap.png)
