@@ -22,3 +22,13 @@
 | Male   | 18,557       | 50.02%     |
 | Female | 18,488       | 49.98%     |
 
+## Graham Ave Subway Station: Turnstile #01-00-00
+
+###### Entries:
+![entries](Entries.png)
+
+###### Exits:
+![exits](Exits.png)
+
+###### Difference betwwen Entries and Exits:
+![difference](Difference.png)
