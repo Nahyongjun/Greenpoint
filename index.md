@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![alt text](https://github.com/Nahyongjun/Hello-World-/blob/master/asd.png "Logo Title Text 1")
 ![alt text] [logo]
+[logo]: https://github.com/Nahyongjun/Hello-World-/blob/master/asd.png "Logo Title Text 2"
 
 ### Markdown
 
