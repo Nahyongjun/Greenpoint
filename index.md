@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/Nahyongjun/Hello-World-/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![HI](https://github.com/Nahyongjun/Hello-World-/blob/master/asd.png)
-![HI] [logo]
-[logo]: https://github.com/Nahyongjun/Hello-World-/blob/master/asd.png
+![HI](asd.png)
 
 ### Markdown
 
